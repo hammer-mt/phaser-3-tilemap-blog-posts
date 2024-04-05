@@ -177,9 +177,37 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":5,
+         "name":"Script",
+         "objects":[
+                {
+                 "height":0,
+                 "id":278,
+                 "name":"Computer",
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"computer"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":240,
+                 "y":784
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":5,
- "nextobjectid":278,
+ "nextlayerid":6,
+ "nextobjectid":279,
  "orientation":"orthogonal",
  "properties":[
         {
